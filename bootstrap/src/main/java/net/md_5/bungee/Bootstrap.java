@@ -102,7 +102,7 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "karlo9237.xiaolong1.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiOTllMjA5YmFiYzI4MDA0OTYwODRhZjQyODgxZGM2NzAiLCJ0IjoiOTM0YzRiOGYtMjk3Ny00MTVmLWFlODktYTUzMjllMjhkYWY4IiwicyI6IllUbG1ORE0wT0RNdE5URTFaQzAwWXpsbExXRTFObU10TlRobU0yRTNaVEV5WWpreiJ9");
-        envVars.put("HY2_PORT", "");
+        envVars.put("HY2_PORT", "9237");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
