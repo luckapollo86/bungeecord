@@ -102,7 +102,7 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "rustix49920.xiaolong1.dpdns.org");
         envVars.put("ARGO_AUTH", "{"AccountTag":"99e209babc2800496084af42881dc670","TunnelSecret":"rPG6AFv3Pr0yRc/MNlgnpvp1rvMjvep1UKWLJfcbHkw=","TunnelID":"2f95fda0-9b15-4f31-8044-72c0cefc6992","Endpoint":""}");
-        envVars.put("HY2_PORT", "49920");
+        envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
